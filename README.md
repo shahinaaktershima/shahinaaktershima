@@ -1,3 +1,5 @@
+
+![logo](https://github.com/shahinaaktershima/shahinaaktershima/blob/main/welcome%20to%20my%20profile.png)
 <h1 align="center">Hi 👋, I'm Shahina Akter shima</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="developer" width="400" src="https://i.postimg.cc/GmPMSyc2/image.png">
