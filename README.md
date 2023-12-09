@@ -16,13 +16,16 @@
 #### My three pinned projects are!
 <ol>
   <li>
-    [job project](https://www.example.com/my%20great%20page)
+    [job project](https://github.com/shahinaaktershima/assignment-11-client) 
+    [live link](https://www.example.com/my%20great%20page)
     <a href="https://job-space-60860.web.app"></a></li>
   <li>
-    [donation campaign](https://www.example.com/my%20great%20page)
+     [donation campaign](https://github.com/shahinaaktershima/assignment-8)
+    [live link](https://www.example.com/my%20great%20page)
     <a href="https://65147389998c23245ae7ee78--extraordinary-pithivier-5035a7.netlify.app/donation"></a></li>
   <li>
-    [entertainment media](https://www.example.com/my%20great%20page)
+    [brand shop](https://github.com/shahinaaktershima/assignment-10-client)
+    [live link]([https://www.example.com/my%20great%20page](https://github.com/shahinaaktershima/assignment-10-client))
     <a href="https://brand-shop-21630.web.app"></a></li>
   
  
