@@ -13,9 +13,20 @@
 
 - 📫 How to reach me **shima421914@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+#### My three pinned projects are!
+<ol>
+  <li>
+    [job project](https://www.example.com/my%20great%20page)
+    <a href="https://job-space-60860.web.app"></a></li>
+  <li>
+    [donation campaign](https://www.example.com/my%20great%20page)
+    <a href="https://65147389998c23245ae7ee78--extraordinary-pithivier-5035a7.netlify.app/donation"></a></li>
+  <li>
+    [entertainment media](https://www.example.com/my%20great%20page)
+    <a href="https://brand-shop-21630.web.app"></a></li>
+  
+ 
+</ol>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
