@@ -22,7 +22,7 @@
   <li>
      [donation campaign](https://github.com/shahinaaktershima/assignment-8)
     [live link](https://65147389998c23245ae7ee78--extraordinary-pithivier-5035a7.netlify.app/donation)
-    <a href="https://65147389998c23245ae7ee78--extraordinary-pithivier-5035a7.netlify.app/donation"></a></li>
+    <a href="https://65147389998c23245ae7ee78--extraordinary-pithivier-5035a7.netlify.app"></a></li>
   <li>
     [brand shop](https://github.com/shahinaaktershima/assignment-10-client)
     [live link](https://brand-shop-21630.web.app)
