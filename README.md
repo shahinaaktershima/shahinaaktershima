@@ -13,8 +13,12 @@
 
 - 📫 How to reach me **shima421914@gmail.com**
 
-#### My three pinned projects are!
+#### My four pinned projects are!
 <ol>
+  <li>
+    [Tradeswift(team project)](https://github.com/magiciansweb/Tradeswift)
+    [live link](https://tradeswift.vercel.app)
+    <a href[="https://tradeswift.vercel.app"></a></li>
   <li>
     [job project](https://github.com/shahinaaktershima/assignment-11-client) 
     [live link](https://job-space-60860.web.app)
