@@ -16,19 +16,19 @@
 #### My four pinned projects are!
 <ol>
   <li>
-    [Tradeswift(team project)](https://github.com/magiciansweb/Tradeswift)
+    [Tradeswift(team project)]
     [live link](https://tradeswift.vercel.app)
     <a href[="https://tradeswift.vercel.app"></a></li>
   <li>
-    [job project](https://github.com/shahinaaktershima/assignment-11-client) 
+    [job project] 
     [live link](https://job-space-60860.web.app)
     <a href="https://job-space-60860.web.app"></a></li>
   <li>
-     [donation campaign](https://github.com/shahinaaktershima/assignment-8)
+     [donation campaign]
     [live link](https://65147389998c23245ae7ee78--extraordinary-pithivier-5035a7.netlify.app)
     <a href="https://65147389998c23245ae7ee78--extraordinary-pithivier-5035a7.netlify.app"></a></li>
   <li>
-    [brand shop](https://github.com/shahinaaktershima/assignment-10-client)
+    [brand shop]
     [live link](https://brand-shop-21630.web.app)
     <a href="https://brand-shop-21630.web.app"></a></li>
   
